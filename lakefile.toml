@@ -1,0 +1,6 @@
+name = "jsp-000299-lean"
+version = "0.1.0"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
